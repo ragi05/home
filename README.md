@@ -1,7 +1,4 @@
-Hi
-Hi
-💫R⃟agùL💨
-https://ragi05.github.io/Data/
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
